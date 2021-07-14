@@ -1,0 +1,15 @@
+current directory: /Users/alexmartinez/Desktop/React Project/react-project-backend/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/alexmartinez/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/alexmartinez/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210708-72147-l5ubfg.rb extconf.rb
+creating Makefile
+
+current directory: /Users/alexmartinez/Desktop/React Project/react-project-backend/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /Users/alexmartinez/Desktop/React Project/react-project-backend/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/alexmartinez/Desktop/React Project/react-project-backend/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20210708-72147-1w8215q
